@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello This is Salt
 Hello This is Sweet
 Hello This is Aloo
 Hello This is Roti
+=======
+Hello This is Salt
+>>>>>>> fb65a50b804cc836ef4bcca9922bfffa50e1c760
